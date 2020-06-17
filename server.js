@@ -10,7 +10,7 @@ app.listen(process.env.PORT);
 
 const api = require("discord-script");
 const bd = new api({
-  token: "NzExOTUyNzk2NTc2MTIwODky.XsKfxQ.pHVIcvYWeNdhsNZEn5vvcAc1WAY",
+  token: "Token Here",
   prefix: ["$getServerVar[prefix]","$getServerVar[prefix2]"]
 });
 //VARS
